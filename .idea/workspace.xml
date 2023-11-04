@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager" selected="TestNG.UserTests.testPostUser">
+    <configuration name="DDTests.testPostUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStoreAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.test" />
+      <option name="MAIN_CLASS_NAME" value="api.test.DDTests" />
+      <option name="METHOD_NAME" value="testPostUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTests.testPostUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStoreAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.test" />
+      <option name="MAIN_CLASS_NAME" value="api.test.UserTests" />
+      <option name="METHOD_NAME" value="testPostUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserTests.testPostUser" />
+        <item itemvalue="TestNG.DDTests.testPostUser" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
